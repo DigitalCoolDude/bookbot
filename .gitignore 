@@ -1,2 +1,5 @@
+# ignore ALL files in ANY directory named books
 books/
+
+# ignore ALL files in ANY directory named __*
 __*/
